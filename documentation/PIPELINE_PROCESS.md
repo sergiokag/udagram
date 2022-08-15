@@ -12,3 +12,5 @@ The process goes like this:
 - Configuring AWS Access Key ID
 - Then Udagram repo is cloned
 - Then the frontend and the backend npm scripts are executed ( install, build, deploy ) 
+
+![Pipeline Diagram](./images/PipelineDiagram.png)

@@ -3,6 +3,11 @@
 # Udagram
 
 The udagram application is a simple application that aws services.
+
+The project is available at
+
+http://timosergioudagrambucket.s3-website-us-east-1.amazonaws.com/
+
 Please check the documentation folder (docs, diagram and screenshots) for more informations
 
 ### Dependencies
@@ -45,6 +50,7 @@ The e2e tests are using Protractor and Jasmine.
 - [Express](https://expressjs.com/) - Javascript API Framework
 
 ## CircleCI Badge
+
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/sergiokag/udagram/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sergiokag/udagram/tree/master)
 
 ## License
